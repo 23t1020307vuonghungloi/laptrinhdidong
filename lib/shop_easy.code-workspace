@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../python/hocflask"
+		},
+		{
+			"path": "../../../../python/py_flask"
+		},
+		{
+			"path": "../../../../python/n1"
+		}
+	],
+	"settings": {}
+}
